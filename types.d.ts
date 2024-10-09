@@ -109,7 +109,7 @@ import {
 import { SecureContextOptions, TlsOptions } from "tls";
 import { URL } from "url";
 import { Context } from "vm";
-/* 1. Hi */
+/* 1. Hi */ /* 3. hello */
 /* 2. Hey */
 declare interface Abortable {
 	/**
