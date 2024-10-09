@@ -110,6 +110,7 @@ import { SecureContextOptions, TlsOptions } from "tls";
 import { URL } from "url";
 import { Context } from "vm";
 /* 1. Hi */
+/* 2. Hey */
 declare interface Abortable {
 	/**
 	 * When provided the corresponding `AbortController` can be used to cancel an asynchronous action.
